@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331665351972",
+    "firebase_url": "https://notificationnew-7dfea.firebaseio.com",
+    "project_id": "notificationnew-7dfea",
+    "storage_bucket": "notificationnew-7dfea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331665351972:android:a746e13c44a856d1",
+        "android_client_info": {
+          "package_name": "com.lifeplaytrip.notification_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331665351972-d67trkhr9ats4ccjjt85a2aul6s6p6na.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lifeplaytrip.notification_new",
+            "certificate_hash": "3cbe6b3f8754cd8826f071441f38157c849fd33c"
+          }
+        },
+        {
+          "client_id": "331665351972-jk4po05aaoqv88f6kkpuhcmbjts2m227.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdWt63vFoWH3Tj5cZb63eQ7R6aTMdb1V4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331665351972-jk4po05aaoqv88f6kkpuhcmbjts2m227.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
